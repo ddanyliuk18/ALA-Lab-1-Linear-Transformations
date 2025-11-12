@@ -170,8 +170,7 @@ plt.show()
 ---
 
 ## 🖼️ Results
-
-![Linear Transformations Visualization](path/to/your/image.png)
+![Linear Transformations Visualization](<img width="1536" height="754" alt="task1" src="https://github.com/user-attachments/assets/bae3d5f3-a8e8-4c40-a955-ff8c8e22ea46" />)
 
 ---
 # 🔄 Task 2 — Composition of Linear Transformations
@@ -324,9 +323,7 @@ This means **the order matters** — different sequences produce different resul
 
 ## 🖼️ Results
 
-![Transformation Compositions](path/to/your/image.png)
-
-*Replace with your actual visualization showing all four compositions*
+![Transformation Compositions](<img width="1536" height="754" alt="task2" src="https://github.com/user-attachments/assets/3edc69d8-e80c-49d1-b533-fb91cadad3b7" />)
 
 ---
 # 🌐 Task 3 — 3D Rotations
@@ -581,13 +578,13 @@ When viewing from the **positive axis** toward the origin:
 ## 🖼️ Results
 
 ### XY-Plane Rotation (π/6 radians = 30°)
-![XY Rotation](path/to/xy_rotation.png)
+![XY Rotation](<img width="1000" height="500" alt="task3 1" src="https://github.com/user-attachments/assets/9be2e8e7-7f9f-4bb4-bf00-a0b5bcc995ca" />)
 
 ### YZ-Plane Rotation (π/6 radians = 30°)
-![YZ Rotation](path/to/yz_rotation.png)
+![YZ Rotation](<img width="1000" height="500" alt="task3 2" src="https://github.com/user-attachments/assets/deeb96c5-2b64-49ab-9e11-0ad612692ab5" />)
 
 ### ZX-Plane Rotation (π/6 radians = 30°)
-![ZX Rotation](path/to/zx_rotation.png)
+![ZX Rotation](<img width="1000" height="500" alt="task3 3" src="https://github.com/user-attachments/assets/730d8902-871c-41f9-88d3-1fb970f002c9" />)
 ---
 
 # 🔢 Task 4 — Combined Rotation Matrix
@@ -800,7 +797,7 @@ Despite using the same three rotations, different orders produce different matri
 
 ### Combined Rotations Comparison
 
-![Combined Rotations with Matrices](path/to/combined_rotations_matrices.png)
+![Combined Rotations with Matrices](<img width="1536" height="754" alt="task4" src="https://github.com/user-attachments/assets/dead229a-0039-4771-b787-cbee1220c87c" />)
 
 *The visualization shows three different final orientations from the same rotations applied in different orders, along with their corresponding transformation matrices*
 
