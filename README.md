@@ -577,16 +577,6 @@ This task demonstrates how to **compute the combined transformation matrix** for
 When multiple rotations are applied sequentially, the final transformation can be represented by a **single combined matrix**. This approach is more efficient computationally and provides insight into the mathematical structure of composed rotations.
 
 **Key Concept**: Instead of:
-```python
-result = rotate_zx(rotate_yz(rotate_xy(vertices, angle), angle), angle)
-```
-
-We compute:
-```python
-M_combined = R_ZX @ R_YZ @ R_XY
-result = vertices @ M_combined
-```
-
 ---
 
 ## ⚙️ Combined Matrix Function
